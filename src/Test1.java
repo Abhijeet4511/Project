@@ -2,6 +2,6 @@
 public class Test1 {
 
 	public static void main(String[] args) {
-		System.out.println("ABhis first git repo");
+		System.out.println("Abhis first git repo");
 	}
 }
